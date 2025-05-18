@@ -55,16 +55,19 @@
 ### 📫 Connect With Me
 
 <p align="center">
+
   <a href="https://x.com/ashikurraxman" target="_blank">
-    <img alt="X (Twitter)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
+    <img src="https://img.shields.io/badge/X-ashikurraxman-5865F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://ashikoor.vercel.app" target="_blank">
-    <img alt="Portfolio Website" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
+  &nbsp;
+
   <a href="mailto:ashikurrahmanimp@hotmail.com">
-    <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Email-ashikurrahmanimp@hotmail.com-5865F2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  
+  <a href="https://ashikoor.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Me-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
