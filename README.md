@@ -1,4 +1,4 @@
-<!-- Profile Banner -->
+banner.png
 <p align="center">
   <img src="<!-- CUSTOM BANNER LINK GOES HERE -->" alt="Ashikur Rahman Banner" width="100%">
 </p>
