@@ -1,6 +1,5 @@
-banner.png
 <p align="center">
-  <img src="<!-- CUSTOM BANNER LINK GOES HERE -->" alt="Ashikur Rahman Banner" width="100%">
+  <img src="banner.png" alt="Ashikur Rahman Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Ashikur Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
