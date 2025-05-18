@@ -32,15 +32,6 @@
 
 ---
 
-### ✨ Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Portfolio Website**](https://ashikoor.vercel.app) | Personal portfolio showcasing my work | Next.js, Tailwind CSS |
-| [**More projects here **](https://github.com/ashikoor?tab=repositories) | Stay tuned! | - |
-
----
-
 ### 🎯 Currently Exploring
 
 - Advanced frontend animation (Framer Motion, GSAP)
