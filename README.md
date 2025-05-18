@@ -53,8 +53,7 @@
 
 <p align="center">
   <a href="https://x.com/ashikurraxman"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter" /></a>
-  <a href="https://linkedin.com/in/ashikoor"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:ashikur.email@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:ashikurrahmanimp@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" /></a>
   <a href="https://ashikoor.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web" /></a>
 </p>
 
