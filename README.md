@@ -37,7 +37,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**Portfolio Website**](https://ashikoor.vercel.app) | Personal portfolio showcasing my work | Next.js, Tailwind CSS |
-| [**More Projects Soon...**](https://github.com/ashikoor?tab=repositories) | Stay tuned! | - |
+| [**More projects here **](https://github.com/ashikoor?tab=repositories) | Stay tuned! | - |
 
 ---
 
@@ -56,12 +56,12 @@
     <img alt="X (Twitter)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ashikurrahmanimp@hotmail.com">
-    <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://ashikoor.vercel.app" target="_blank">
     <img alt="Portfolio Website" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" />
+  </a>
+&nbsp;&nbsp;
+  <a href="mailto:ashikurrahmanimp@hotmail.com">
+    <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" />
   </a>
 </p>
 
