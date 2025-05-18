@@ -57,7 +57,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ashikurrahmanimp@hotmail.com">
-    <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+    <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ashikoor.vercel.app" target="_blank">
